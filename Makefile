@@ -22,3 +22,6 @@ run: paradeigma_c paradeigma_cc
 	@echo
 	@echo Πρόγραμμα σε Perl
 	./paradeigma.pl
+	@echo
+	@echo Πρόγραμμα σε Bash
+	@echo
