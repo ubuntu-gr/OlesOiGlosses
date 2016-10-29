@@ -24,4 +24,8 @@ run: paradeigma_c paradeigma_cc
 	./paradeigma.pl
 	@echo
 	@echo Πρόγραμμα σε Bash
+	./paradeigma.sh
+	@echo
+	@echo Πρόγραμμα σε Awk
+	./paradeigma.awk
 	@echo
