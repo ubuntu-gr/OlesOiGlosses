@@ -14,11 +14,11 @@
 '''
 
 def subroutine(number):
-   print ("Αυτή είναι μια υπορουτίνα με αριθμό %d." % number)
+   print("Αυτή είναι μια υπορουτίνα με αριθμό %d." % number)
 
-i=0;
+i=0
 
-print ("Γεια σου, κόσμε!\n")
+print("Γεια σου, κόσμε!\n")
 
 if (1):
     print ("Εκτέλεση if: Αληθές και όχι ψευδές!\n")
@@ -26,8 +26,8 @@ if (1):
 print("Εκτέλεση βρόγχου: ")
 
 for i in range(0, 10):
-    print ("%d " % i,end='')
+    print ("%d " % i, end='')
 
-print ("\n")
+print("\n")
 
 subroutine(5)
