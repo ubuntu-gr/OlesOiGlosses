@@ -1,26 +1,24 @@
 # OlesOiGlosses
 Το ίδιο απλό πρόγραμμα σε όλες τις γλώσσες προγραμματισμού!
 
-#AWK Script
-paradeigma.awk
+* AWK Script: paradeigma.awk
 
-#C
-paradeigma.c
+* C: paradeigma.c
 
-#C+
-paradeigma.cc
+* C++: paradeigma.cc
 
-#Arduino Sketch
-paradeigma.ino
+* Arduino Sketch: paradeigma.ino
 
-#PHP
-paradeigma.php
+* PHP: paradeigma.php
 
-#Perl
-paradeigma.pl
+* Perl: paradeigma.pl
 
-#Python
-paradeigma.py
+* Python: paradeigma.py
 
-#Bash Script
-paradeigma.sh
+* Bash Script: paradeigma.sh
+
+* Golang: paradeigma.go
+
+* JavaScript: paradeigma.js
+
+* Lua: paradeigma.lua 
